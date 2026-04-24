@@ -1,5 +1,5 @@
 # sing-box-Configuration
-sing-box自用配置
+sing-box自用Tproxy代理模式配置
 
 应用于Android代理模块：
   https://github.com/CHIZI-0618/box4magisk/releases
