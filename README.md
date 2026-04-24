@@ -15,4 +15,5 @@ ipset支持模块：
 
 cn_ip规则，固定链接：
   IPv4: https://github.com/X-Shelby/geoip/releases/download/latest/cn_v4.txt
+  
   IPv6: https://github.com/X-Shelby/geoip/releases/download/latest/cn_v6.txt
